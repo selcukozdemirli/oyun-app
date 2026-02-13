@@ -2,8 +2,11 @@ name: Notion Backup
 
 on:
   schedule:
-    - cron: '0 3 * * *'  # Her gün saat 03:00 UTC (06:00 TR)
-  workflow_dispatch:       # Manuel tetikleme butonu
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   backup:
@@ -33,6 +36,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "📸 Notion backup $(date -u +%Y-%m-%d)"
+            git commit -m "Notion backup $(date -u +%Y-%m-%d)"
             git push
           fi
