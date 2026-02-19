@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": "30bf6fd8-6490-818b-b061-e95a32832584",
+    "created": "2026-02-18T11:42:00.000Z",
+    "updated": "2026-02-18T11:42:00.000Z",
+    "Notlar": "Bölüm 1 YAZILDI. Merkez soru: Herkes en önde olmak isterse, birlikte hareket etmek mümkün olur mu? Karakterler: Tilki/Yılan/Turna/Boğa",
+    "Süre Tahmini (dk)": 25,
+    "Durum": "Taslak",
+    "Sahip": "Aycan",
+    "Yaş Hedefi": [
+      "7-9",
+      "10-12"
+    ],
+    "Tema": "Göbeklitepe",
+    "Dallanma Şeması": "Kum Saati",
+    "Ending Sayısı": 8,
+    "Senaryo Adı": "Göbeklitepe — Sırayı Anlamak"
+  }
+]

@@ -342,21 +342,6 @@ App QR kodu okuyunca aktif senaryoya göre içerik gösterir.
 _Karar Tarihi: 1 Şubat 2026 | Durum: ✅ Kesinleşti_
 
 
-## 📝 Changelog
-
-| Tarih      | Değişiklik              | Detay                                                              |
-| ---------- | ----------------------- | ------------------------------------------------------------------ |
-| 2026-02-07 | Notion yapısal refactor | Stratejik Kararlar 6 alt sayfaya bölündü. Context optimizasyonu.   |
-| 2026-02-04 | Proje sıfırlama         | Custom instructions sadeleştirildi. Notion single source of truth. |
-| 2026-02-03 | Yaş segmentasyonu       | 4-7 yaş funnel, 7-9/10-12 oyuncu, 12+ ziyaretçi rolü eklendi.      |
-| 2026-02-02 | Mekanik v2.0            | Modifier kart hibrit, gizli görev, dallanma optimizasyonu.         |
-| 2026-02-01 | İçerik genişleme        | Netflix + Fiziksel hibrit, modüler kart sistemi.                   |
-| 2025-02-01 | İlk kararlar            | Ana mekanik, seslendirme stratejisi, ticari model.                 |
-
-
-**Kural:** Her yeni stratejik karar eklendiğinde bu tabloya kayıt düşülmeli.
-
-
 ---
 
 
